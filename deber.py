@@ -28,6 +28,6 @@ def operaciones (valor):
     Función que recibe un parametro para sumar,restar,multiplicar y dividir.
     """
 
-print("ingrese un valor a operar: 4 para sumar, 3 para restar, 2 para multiplicar, 1 para dividir")
+print("ingrese un valor a operar: 4 para sumar, 34 para restar, 2 para multiplicar, 1 para dividir")
 valor = int(input("Ingrese el valor: "))
 operaciones(valor)  # Llamada a la función y muestra del resultado
